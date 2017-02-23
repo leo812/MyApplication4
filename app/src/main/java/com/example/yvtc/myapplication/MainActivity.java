@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("LEARN", "onCreate()");
-        //test1.tt
+        //test1.ttqqqqqqqqq
     }
 
     @Override
